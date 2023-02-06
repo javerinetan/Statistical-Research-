@@ -15,3 +15,14 @@ Is Singapore a good country to live in ?
 Data Analyst 
 
 
+## Memebers:
+🙎‍♂️Yong Xiang :
+
+👨‍Jonathan: Saftey
+
+👱Dylan: Education
+
+👩 Amber: Healthcare
+
+👧🏻Javerine: Cost of Living 
+
