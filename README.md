@@ -11,4 +11,7 @@ You are a group of innovative, creative and energetic young people (The â€œICEâ€
 Is Singapore a good country to live in ?
 
 ## Role 
-<i> Data Analyst </i>
+
+Data Analyst 
+
+
