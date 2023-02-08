@@ -3,7 +3,7 @@
   <a href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f33f5f7a-a87e-4de9-b191-f246a915af15/" target="_blank">Is Singapore a Good place to live in?</a>
 </h2>
 
-<img width="100%" alt="project2" src="https://user-images.githubusercontent.com/90853880/217591079-0e924641-8abd-4778-920a-81da3502a3d2.png" href="https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:f33f5f7a-a87e-4de9-b191-f246a915af15/">
+<img width="100%" alt="project2" src="https://user-images.githubusercontent.com/90853880/217591079-0e924641-8abd-4778-920a-81da3502a3d2.png">
 
 
 ## Project Scope 
