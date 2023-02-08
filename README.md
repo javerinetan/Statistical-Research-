@@ -72,24 +72,16 @@ Data Analyst
 
 Due to privicy issues of our respondents, we will not be allowing access to the form responses. 
 
-## Work Process 
-📝Creation of the report:
-- The team gathered datasets and articles and discussed with each member
-- The team reviewed a sample report provided by the lecturer to understand the expected standards
-- Based on the review, the team began working on the report.
+## Conclusions 
 
-📝Documentation: 
-I started with introducing why Singapore is expensive with articles I have read and why the hypothesis "The Cost of Living in Singapore is Getting More Expensive"
-Followed by that, I explain about the methodology, I had use on my secondary data and what the data purpose in this to prove my hypthesis. I then selected a few subtopics to cover on: Singapore Food Prices,Cost of Housing . I choose these two topics as base on the survey my team conducted, we found that majority of Singaporeans found these to be their concerns in cost of living in Singapore. I used linear regression to get the Linear model data on excel from the datasets I had retrieved from data.gov.sg and many other repuitable website. 
+📝My hypothesis conlusion: 
+In conclusion, the results of our statistical analysis suggest that the inflation rate in Singapore is increasing, but it does not support the hypothesis that "The Cost of Living in Singapore is Getting More Expensive". Our limited time and resources may have contributed to these results, as we only focused on comparing inflation in Singapore to other countries. To fully support the hypothesis, more research and analysis needs to be conducted, looking at other factors such as GDP, consumer price index, and income group gaps.
 
-To help with my conculsion, I did a Data Analysis to test the hypothesis. Using Z-Test (Two Sample for Means), I calculated the results of Singapore Vs Globalon the mean, and teh confidence interval. Base on my results recieved from the caluclation, I am 95% confident that the mean of the inflation rate in Singapore over the years is between 1.061 and 2.247, and that the mean of global inflation rate over the years is between 4.686 and 6.891. Hence, the global inflation rate over the years is higher than the inflation rate in Singapore over the years
-![image](https://user-images.githubusercontent.com/90853880/217611018-af9e95df-22bb-4ef5-b6bd-ba4cf7df0ce6.png)
+📝Groups conclusion: 
+In conclusion, Singapore is considered one of the best places to live in the world, but our statistical findings do not fully support this claim. While Singapore is known for its safety and good education and healthcare systems, there is limited evidence to support these claims. Our findings also show that there are fewer tertiary education holders in Singapore than the global average. The claim that "Singapore is a good country to live in" is subjective and depends on personal standards, but our analysis was based on factors such as education, healthcare, safety, low cost, and stress-free living. However, more statistical testing and data collection is needed to reach a true conclusion.
 
-![image](https://user-images.githubusercontent.com/90853880/217610942-80ab7566-03f8-442d-b7c0-ebd8f932f8ad.png)
-
-
-📝 Conclusion for my hypothesis
-In conclusion, our statistical testing is unable to support the claim that “The Cost of Living in Singapore is Getting More Expensive”, even though the majority of us are already experiencing an increase in prices in our daily lives. It is only able to give evidence that the inflation rate is increasing in Singapore.However, the claim “The Cost of Living in Singapore is Getting More Expensive” could still be true, as due to limited time and resources, we were only able to do one hypothesis testing, through the inflation in Singapore as compared to other countries. If we had more time, we could look at more aspects like the country's gross domestic product (GDP) , Inflation consumer price index(2019=100) ,the income group gap comparing how much price increases for each and how it affects them etc.
+📝Recommendations: 
+Our recommendation is that residents and foreigners should make informed decisions on whether or not to reside in Singapore based on their personal standards, rather than relying solely on online findings. Before using online data, they should understand its relevance and credibility by evaluating its data collection method, sample size, and standard used. This is because every finding online is subjective and based on its own data and standards. People should make the most out of the information available to them and consider their own individual needs and preferences when making important decisions.
 
 (you can read more about my findings here: <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af33f5f7a-a87e-4de9-b191-f246a915af15&viewer%21megaVerb=group-discover">report link, click me</a>)
 
@@ -104,6 +96,9 @@ In conclusion, our statistical testing is unable to support the claim that “Th
 - Other challenges faced were insufficient datasets and conflicting results from different datasets
    - As I, being new to Statistical Research Methods, sought guidance from the lecturer and utilized online resources to improve their understanding of t-test and shared this knowledge with the team
  
+ 
+ ## Acknowledgments 
+We would like to extend our gratitude to our lecturers,Mr Heng Rui Jie and Mr Edwin Tan for their continuous support and constructive criticism provided throughout the course of our research.We would also like to thank Nanyang Polytechnic School of Information Technology for their invaluable guiding resources.
  
 
 
