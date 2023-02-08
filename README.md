@@ -45,7 +45,7 @@ Data Analyst
 
 👧🏻Javerine: Cost of Living 
 
-## Decision Making for the project: 
+## Work Process: 
 
 🤔 Deciding of sub-topics: 
 - Topics were chosen based on individual member's passions
