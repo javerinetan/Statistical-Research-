@@ -64,8 +64,10 @@ Data Analyst
 - The final dataset consisted of 120 valid responses from ages 13 to 60
 - Invalid responses, such as those created by jokers, were filtered out.
 
-![image](https://user-images.githubusercontent.com/90853880/217603396-71d1a680-8ee8-4d62-8435-c1f101c0c788.png)
+<h2 align="center">
 ![image](https://user-images.githubusercontent.com/90853880/217603497-f5c638ca-0a20-4837-87e6-f78432812b70.png)
+![image](https://user-images.githubusercontent.com/90853880/217603396-71d1a680-8ee8-4d62-8435-c1f101c0c788.png)
+</h2>
 Due to privicy issues of our respondents, we will not be allowing access to the form responses. 
 
 🤝Helping members
