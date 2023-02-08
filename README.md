@@ -73,6 +73,8 @@ Data Analyst
 Due to privicy issues of our respondents, we will not be allowing access to the form responses. 
 
 ## Conclusions 
+![image](https://user-images.githubusercontent.com/90853880/217615251-bd3f2edf-0c7c-4db7-901f-d4a0fbcfe19f.png)![image](https://user-images.githubusercontent.com/90853880/217615293-601d8d4c-39d7-4c29-b8c3-29af77772481.png)
+
 
 📝My hypothesis conlusion: 
 
@@ -86,7 +88,7 @@ In conclusion, Singapore is considered one of the best places to live in the wor
 
 Our recommendation is that residents and foreigners should make informed decisions on whether or not to reside in Singapore based on their personal standards, rather than relying solely on online findings. Before using online data, they should understand its relevance and credibility by evaluating its data collection method, sample size, and standard used. This is because every finding online is subjective and based on its own data and standards. People should make the most out of the information available to them and consider their own individual needs and preferences when making important decisions.
 
-(you can read more about my findings here: <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af33f5f7a-a87e-4de9-b191-f246a915af15&viewer%21megaVerb=group-discover">report link, click me</a>)
+(you can read more about my findings here: <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af33f5f7a-a87e-4de9-b191-f246a915af15&viewer%21megaVerb=group-discover">click me</a>)
 
 ## Difficulties 
 - The biggest challenge was time management
