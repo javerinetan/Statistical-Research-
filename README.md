@@ -75,12 +75,15 @@ Due to privicy issues of our respondents, we will not be allowing access to the 
 ## Conclusions 
 
 📝My hypothesis conlusion: 
+
 In conclusion, the results of our statistical analysis suggest that the inflation rate in Singapore is increasing, but it does not support the hypothesis that "The Cost of Living in Singapore is Getting More Expensive". Our limited time and resources may have contributed to these results, as we only focused on comparing inflation in Singapore to other countries. To fully support the hypothesis, more research and analysis needs to be conducted, looking at other factors such as GDP, consumer price index, and income group gaps.
 
 📝Groups conclusion: 
+
 In conclusion, Singapore is considered one of the best places to live in the world, but our statistical findings do not fully support this claim. While Singapore is known for its safety and good education and healthcare systems, there is limited evidence to support these claims. Our findings also show that there are fewer tertiary education holders in Singapore than the global average. The claim that "Singapore is a good country to live in" is subjective and depends on personal standards, but our analysis was based on factors such as education, healthcare, safety, low cost, and stress-free living. However, more statistical testing and data collection is needed to reach a true conclusion.
 
 📝Recommendations: 
+
 Our recommendation is that residents and foreigners should make informed decisions on whether or not to reside in Singapore based on their personal standards, rather than relying solely on online findings. Before using online data, they should understand its relevance and credibility by evaluating its data collection method, sample size, and standard used. This is because every finding online is subjective and based on its own data and standards. People should make the most out of the information available to them and consider their own individual needs and preferences when making important decisions.
 
 (you can read more about my findings here: <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af33f5f7a-a87e-4de9-b191-f246a915af15&viewer%21megaVerb=group-discover">report link, click me</a>)
