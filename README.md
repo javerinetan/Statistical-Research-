@@ -78,12 +78,20 @@ Due to privicy issues of our respondents, we will not be allowing access to the 
 - The team reviewed a sample report provided by the lecturer to understand the expected standards
 - Based on the review, the team began working on the report.
 
-<p>The Cost of Living in Singapore is Getting More Expensive</p>
-📝Introduction 
-Singapore is known to be one of the most expensive countries to live in especially in Southeast Asia (SEA). This is because Singapore stands out from the rest of SEA where it is known to be cheap to vacation there. Some reasons why Singapore stands out is due to its size. Singapore is just a tiny red dot on the world map. Due to its size, Singapore lacks natural resources and relies on other countries for resources like food, water, oil and so on. As we rely on the countries for resources we are so bound to face inflation and shaky markets as the supply and demand fluctuate. Through the years the Singapore government has been working hard to keep costs low, by creating or implementing new technology to improve systems to help us grow our own natural resources, filter our water and many more. But is life in Singapore still too expensive and why?
+📝Documentation: 
+I started with introducing why Singapore is expensive with articles I have read and why the hypothesis "The Cost of Living in Singapore is Getting More Expensive"
+Followed by that, I explain about the methodology, I had use on my secondary data and what the data purpose in this to prove my hypthesis. I then selected a few subtopics to cover on: Singapore Food Prices,Cost of Housing . I choose these two topics as base on the survey my team conducted, we found that majority of Singaporeans found these to be their concerns in cost of living in Singapore. I used linear regression to get the Linear model data on excel from the datasets I had retrieved from data.gov.sg and many other repuitable website. 
+
+To help with my conculsion, I did a Data Analysis to test the hypothesis. Using Z-Test (Two Sample for Means), I calculated the results of Singapore Vs Globalon the mean, and teh confidence interval. Base on my results recieved from the caluclation, I am 95% confident that the mean of the inflation rate in Singapore over the years is between 1.061 and 2.247, and that the mean of global inflation rate over the years is between 4.686 and 6.891. Hence, the global inflation rate over the years is higher than the inflation rate in Singapore over the years
+![image](https://user-images.githubusercontent.com/90853880/217611018-af9e95df-22bb-4ef5-b6bd-ba4cf7df0ce6.png)
+
+![image](https://user-images.githubusercontent.com/90853880/217610942-80ab7566-03f8-442d-b7c0-ebd8f932f8ad.png)
 
 
-  
+📝 Conclusion for my hypothesis
+In conclusion, our statistical testing is unable to support the claim that “The Cost of Living in Singapore is Getting More Expensive”, even though the majority of us are already experiencing an increase in prices in our daily lives. It is only able to give evidence that the inflation rate is increasing in Singapore.However, the claim “The Cost of Living in Singapore is Getting More Expensive” could still be true, as due to limited time and resources, we were only able to do one hypothesis testing, through the inflation in Singapore as compared to other countries. If we had more time, we could look at more aspects like the country's gross domestic product (GDP) , Inflation consumer price index(2019=100) ,the income group gap comparing how much price increases for each and how it affects them etc.
+
+(you can read more about my findings here: <a href="https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Af33f5f7a-a87e-4de9-b191-f246a915af15&viewer%21megaVerb=group-discover">report link, click me</a>)
 
 ## Difficulties 
 - The biggest challenge was time management
