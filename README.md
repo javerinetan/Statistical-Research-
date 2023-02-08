@@ -45,7 +45,7 @@ Data Analyst
 
 👧🏻Javerine: Cost of Living 
 
-## Work Process 
+## Decision Making for the project: 
 
 🤔 Deciding of sub-topics: 
 - Topics were chosen based on individual member's passions
@@ -72,6 +72,18 @@ Data Analyst
 
 Due to privicy issues of our respondents, we will not be allowing access to the form responses. 
 
+## Work Process 
+📝Creation of the report:
+- The team gathered datasets and articles and discussed with each member
+- The team reviewed a sample report provided by the lecturer to understand the expected standards
+- Based on the review, the team began working on the report.
+
+<p>The Cost of Living in Singapore is Getting More Expensive</p>
+📝Introduction 
+Singapore is known to be one of the most expensive countries to live in especially in Southeast Asia (SEA). This is because Singapore stands out from the rest of SEA where it is known to be cheap to vacation there. Some reasons why Singapore stands out is due to its size. Singapore is just a tiny red dot on the world map. Due to its size, Singapore lacks natural resources and relies on other countries for resources like food, water, oil and so on. As we rely on the countries for resources we are so bound to face inflation and shaky markets as the supply and demand fluctuate. Through the years the Singapore government has been working hard to keep costs low, by creating or implementing new technology to improve systems to help us grow our own natural resources, filter our water and many more. But is life in Singapore still too expensive and why?
+
+
+  
 
 ## Difficulties 
 - The biggest challenge was time management
