@@ -69,14 +69,20 @@ Data Analyst
 ![image](https://user-images.githubusercontent.com/90853880/217603497-f5c638ca-0a20-4837-87e6-f78432812b70.png)
 ![image](https://user-images.githubusercontent.com/90853880/217603396-71d1a680-8ee8-4d62-8435-c1f101c0c788.png)
 </div>
+
 Due to privicy issues of our respondents, we will not be allowing access to the form responses. 
 
-🤝Helping members
-- During this project we faced many issues like, datasets were insufficient. Calculations and hypothesis proven different from different dataset. 
-- Although, I was still new to Statistical Research Methods, I constantly communicate with my lecture for advice on the calculations and watched videos online, to help me better understand how to use t-test, which I later shared with my members to help them with. 
 
-😖 Difficulties
-The biggest difficulty my members and I faced was time management. The project timeline was already very short, especially with this overlapping into our break, where most of us were busy and did not use our time to good use to use the 2 weeks of break, to conduct the survey. 
+## Difficulties 
+- The biggest challenge was time management
+   - The project timeline was tight, especially with it overlapping the break period where most team members had other commitments
+   - The 2-week break period could have been better utilized to conduct the survey and starting our project early 
+   - The team ended up working for long hours in the final 4 days before the submission deadline
+      - Most members slept only 1-2 hours during this period as they focused on completing the report.
+      - This definetly could have been better avoided with better time planning 
+      
+- Other challenges faced were insufficient datasets and conflicting results from different datasets
+   - As I, being new to Statistical Research Methods, sought guidance from the lecturer and utilized online resources to improve their understanding of t-test and shared this knowledge with the team
  
  
 
