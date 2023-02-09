@@ -22,7 +22,7 @@ As a group of innovative, creative and energetic young people (The “ICE” Tea
 
 Is Singapore a good country to live in ?
 
-<i> Why this Topic? </i>
+<i>❓ Why this Topic? </i>
 
 After extensive discussions, we have decided to change our research topic from "Home-Based Learning is a Better Mode of Education than Physical Classrooms" to "Is Singapore a Good Place to Live?" Our initial topic lacked adequate online resources, so we decided to pivot our focus to the quality of life in Singapore, as we realized that we all had both positive and negative perspectives on the matter.
 
