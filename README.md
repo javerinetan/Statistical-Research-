@@ -102,7 +102,7 @@ Our recommendation is that residents and foreigners should make informed decisio
    - As I, being new to Statistical Research Methods, sought guidance from the lecturer and utilized online resources to improve their understanding of t-test and shared this knowledge with the team
  
  
- ## Acknowledgments 
+ ## Acknowledgement
 We would like to extend our gratitude to our lecturers,Mr Heng Rui Jie and Mr Edwin Tan for their continuous support and constructive criticism provided throughout the course of our research.We would also like to thank Nanyang Polytechnic School of Information Technology for their invaluable guiding resources.
  
 
