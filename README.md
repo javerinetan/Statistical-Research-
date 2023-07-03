@@ -34,7 +34,7 @@ Data Analyst
 
 20/06/2022 - 31/07/2022
 
-## Memebers:
+## Members:
 🙎‍♂️Yong Xiang :Education
 
 👨‍Jonathan: Saftey
